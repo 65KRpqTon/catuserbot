@@ -43,7 +43,7 @@ async def _(event):
                 "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
                 "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
                 "`Hacking... 100%\n█████████HACKED███████████ `",
-                f"`Targeted Account Hacked...\n\nPay 69$ To` {ALIVE_NAME} . `To Remove this hack..`",
+                f"`Targeted Account Hacked...\n\nPay 69$ To` {ALIVE_NAME} . `To Remove this hack.. \n\n SELAMAT ANDA KENA PRANK!`",
             ]
             animation_interval = 3
             animation_ttl = range(11)
